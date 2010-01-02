@@ -1,3 +1,7 @@
+// 
+lat = 51.50081;
+lon = -0.121461;
+
 google.setOnLoadCallback(function(){
   var map = new GStreetviewPanorama(mapContainer);
 

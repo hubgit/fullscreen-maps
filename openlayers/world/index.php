@@ -1,6 +1,6 @@
 <?php
 
-$title = 'OpenLayers All';
+$title = 'OpenLayers World';
 
 $scripts = 'http://openlayers.org/api/OpenLayers.js';
   

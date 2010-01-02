@@ -1,4 +1,4 @@
-zoom = 9;
+zoom = 8;
 
 map = new OpenSpace.Map(mapContainerId);
 var point = new OpenSpace.GridProjection().getMapPointFromLonLat(new OpenLayers.LonLat(lon, lat));

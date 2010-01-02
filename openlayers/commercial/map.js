@@ -1,7 +1,3 @@
-zoom = 9;
-lat = 44.414654778606874;
-lon = -123.29029083251953;
-
 map = new OpenLayers.Map(mapContainerId);
 
 map.addLayers([
